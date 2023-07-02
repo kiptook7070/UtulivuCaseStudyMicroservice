@@ -1,0 +1,1 @@
+method: GET uri: /health-facility-service/all queryString: null protocol: HTTP/1.1 remoteAddr: 0:0:0:0:0:0:0:1  remotePort: 56272 userAgent: PostmanRuntime/7.32.3

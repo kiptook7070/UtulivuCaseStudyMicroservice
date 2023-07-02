@@ -1,0 +1,15 @@
+server:
+  port: 9001
+
+spring:
+  cloud:
+    config:
+      enabled: false
+
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+  server:
+    maxThreadsForPeerReplication: 0
+    waitTimeInMsWhenSyncEmpty: 0

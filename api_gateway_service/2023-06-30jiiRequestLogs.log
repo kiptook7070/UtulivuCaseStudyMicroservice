@@ -1,0 +1,1 @@
+method: GET uri: /auth/role/all queryString: null protocol: HTTP/1.1 remoteAddr: 0:0:0:0:0:0:0:1  remotePort: 51873 userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
